@@ -1,0 +1,20 @@
+.app-layout {
+  min-height: 100vh;
+}
+
+.app-content {
+  margin: 24px 16px;
+  padding: 24px;
+  background: #fff;
+  min-height: 280px;
+}
+
+.ant-layout-sider {
+  background: #001529;
+}
+
+.ant-layout-header {
+  background: #fff;
+  padding: 0 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
